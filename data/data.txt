@@ -1,0 +1,3 @@
+2023-11-15 12:53:58,さと,test@tttttttttt,yes,0
+2023-11-15 14:07:18,ラベル,label@label,no,0
+2023-11-16 00:29:37,sato,test@tttttttttt,yes,1
